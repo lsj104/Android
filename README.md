@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=야놀자%20개발일지_luna&fontSize=60&fontAlign=50&fontColor=FFFFFF)
 
+📍 1주차까지 작업해올 범위 📍<br>
 21.08.14<br>
 1.완료항목 <br>
 -기획서 제출 <br>
