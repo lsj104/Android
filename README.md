@@ -1,8 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=야놀자%20개발일지_luna&fontSize=60&fontAlign=50&fontColor=FFFFFF)
 
 📍 1주차까지 작업해올 범위 📍<br>
+1. 뼈대 레이아웃 구성(네비게이션, 탭)
+2. MY야놀자 화면
+3. 로그인 화면
+4. 회원가입 화면
+5. 메인 화면
+6. splash 화면
+7. 회원가입/로그인 API연동
+8. 소셜로그인 API연동<br>
+
 21.08.14<br>
-1.완료항목 <br>
+11.완료항목 <br>
 -기획서 제출 <br>
 -app icon 변경 <br>
 -bottomNavigaionview<br>
