@@ -13,5 +13,7 @@
 <br>
 21.08.15<br>
 1.완료항목 <br>
--MY 야놀자 화면구성
+-MY 야놀자 화면구성<br>
+<img width="10%" src="https://user-images.githubusercontent.com/75536654/129479553-630d7f99-e3d7-4206-9b67-6d69ba0eb896.mp4"/>  
+
 
