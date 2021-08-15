@@ -7,13 +7,13 @@
 -bottomNavigaionview<br>
 -splash<br>
 2.현재 진행중인 항목<br>
--Mypage 로그인 부분 <br>
-<img width="10%" src="https://user-images.githubusercontent.com/75536654/129450099-2e4f3be8-e06f-49d5-ac2b-d8ecd5f5e1dd.png"/>   
-<img width="30%" src="https://user-images.githubusercontent.com/75536654/129450105-9f100f11-4c7a-4f8f-aee9-8ac0b773c6d1.png"/><img width="30%" src="https://user-images.githubusercontent.com/75536654/129450113-9e3942b4-4d61-408e-9544-bea38d8fc9a9.png"/><br>
+-My 야놀자 화면구성 <br>
 <br>
 21.08.15<br>
 1.완료항목 <br>
 -MY 야놀자 화면구성<br>
-<img width="30%" src="https://user-images.githubusercontent.com/75536654/129481813-cf57aba3-058b-4a94-8fa1-5f6cdd59a908.gif"/>  
+<img width="30%" src="https://user-images.githubusercontent.com/75536654/129481813-cf57aba3-058b-4a94-8fa1-5f6cdd59a908.gif"/><br>
+2. 현재 진행중인 항목<br>
+-로그인 페이지
 
 
