@@ -24,6 +24,6 @@
 -MY 야놀자 화면구성<br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/129481813-cf57aba3-058b-4a94-8fa1-5f6cdd59a908.gif"/><br>
 2. 현재 진행중인 항목<br>
--로그인 페이지
+-로그인, 회원가입 화면
 
 
