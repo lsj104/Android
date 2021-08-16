@@ -16,14 +16,22 @@
 -app icon 변경 <br>
 -bottomNavigaionview<br>
 -splash<br>
-2.현재 진행중인 항목<br>
+2.현재 진행중 항목<br>
 -My 야놀자 화면구성 <br>
 <br>
 21.08.15<br>
 1.완료항목 <br>
 -MY 야놀자 화면구성<br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/129481813-cf57aba3-058b-4a94-8fa1-5f6cdd59a908.gif"/><br>
-2. 현재 진행중인 항목<br>
+2. 현재 진행중 항목<br>
 -로그인, 회원가입 화면
+<br>
+21.08.16<br>
+1.진행중 항목<br>
+-로그인 페이지<br>
+-로그인 -> 간편로그인 viewpager로 구현한것 tablayout+FrameLayout으로 수정중<br>
+-야놀자로그인탭 edittext hint가 밑줄에 안붙고 붕떠있어서 밑줄에 붙게 수정중<br>
+<img width="30%" src="https://user-images.githubusercontent.com/75536654/129576952-edd89b85-6591-4795-9263-03d73d901bc8.gif"/><br>
+
 
 
