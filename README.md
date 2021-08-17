@@ -43,6 +43,7 @@
 -로그인 API연동<br>
 -홈화면<br>
 -예약하기 기능<br>
+<br>
 1. 진행중항목 <br>
 - 회원가입 화면(2/2)<br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/129744430-da8a8bdc-274e-4147-aef4-a403a89e1812.gif"/><br>
