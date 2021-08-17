@@ -26,8 +26,8 @@
 21.08.16<br>
 1.진행중 항목<br>
 -로그인 페이지<br>
--로그인 -> 간편로그인 viewpager로 구현한것 tablayout+FrameLayout으로 수정중<br>
--야놀자로그인탭 edittext hint가 밑줄에 안붙고 붕떠있어서 밑줄에 붙게 수정중<br>
+-로그인 -> 간편로그인 viewpager로 구현한것 tablayout+FrameLayout으로 수정중<br> 🍕08.17 완료
+-야놀자로그인탭 edittext hint가 밑줄에 안붙고 붕떠있어서 밑줄에 붙게 수정중<br>  🍕08.17 완료
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/129576952-edd89b85-6591-4795-9263-03d73d901bc8.gif"/><br>
 <br>
 21.08.17<br>
@@ -38,10 +38,10 @@
 4. splash화면<br>
 <br>
 📚1차 피드백📚<br>
--소셜로그인 후순위로 미루기
--2차피드백전까지 완료해야할것
--로그인 API연동
--홈화면
+-소셜로그인 후순위로 미루기<br>
+-2차피드백전까지 완료해야할것<br>
+-로그인 API연동<br>
+-홈화면<br>
 -예약하기 기능<br>
 1. 진행중항목 <br>
 - 회원가입 화면(2/2)
