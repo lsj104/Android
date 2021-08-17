@@ -26,8 +26,8 @@
 21.08.16<br>
 1.진행중 항목<br>
 -로그인 페이지<br>
--로그인 -> 간편로그인 viewpager로 구현한것 tablayout+FrameLayout으로 수정중🍕08.17 완료<br> 
--야놀자로그인탭 edittext hint가 밑줄에 안붙고 붕떠있어서 밑줄에 붙게 수정중🍕08.17 완료<br> 
+-로그인 -> 간편로그인 viewpager로 구현한것 tablayout+FrameLayout으로 수정중 🍕08.17 완료<br> 
+-야놀자로그인탭 edittext hint가 밑줄에 안붙고 붕떠있어서 밑줄에 붙게 수정중 🍕08.17 완료<br> 
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/129576952-edd89b85-6591-4795-9263-03d73d901bc8.gif"/><br>
 <br>
 21.08.17<br>
@@ -44,7 +44,8 @@
 -홈화면<br>
 -예약하기 기능<br>
 1. 진행중항목 <br>
-- 회원가입 화면(2/2)
+- 회원가입 화면(2/2)<br>
+<img width="30%" src="https://user-images.githubusercontent.com/75536654/129744430-da8a8bdc-274e-4147-aef4-a403a89e1812.gif"/><br>
 
 
 
