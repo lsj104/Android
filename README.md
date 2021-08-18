@@ -51,7 +51,9 @@
 21.08.18<br>
 1.진행중항목<br>
 - 회원가입화면<br>
-- 전체동의 체크부분이 안돼서 방법 찾는중
+- 전체동의 체크부분이 안돼서 방법 찾는중<br>
+<img width="30%" src="https://user-images.githubusercontent.com/75536654/129917825-8d176a6f-1aa2-4e60-ae29-3c08104feb78.gif"/><br>
+
 
 
 
