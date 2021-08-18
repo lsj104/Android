@@ -47,6 +47,11 @@
 1. 진행중항목 <br>
 - 회원가입 화면(2/2)<br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/129744430-da8a8bdc-274e-4147-aef4-a403a89e1812.gif"/><br>
+<br>
+21.08.18<br>
+1.진행중항목<br>
+- 회원가입화면<br>
+- 전체동의 체크부분이 안돼서 방법 찾는중
 
 
 
