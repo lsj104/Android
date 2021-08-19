@@ -61,7 +61,7 @@
 2.진행중항목<br>
 -로그인API<br>
 -홈화면<br>
-<img width="30%" src="https://user-images.githubusercontent.com/75536654/129917825-8d176a6f-1aa2-4e60-ae29-3c08104feb78.gif"/><br>
+<img width="30%" src="https://user-images.githubusercontent.com/75536654/130085897-f7b27718-cb51-40e1-a485-4b275e4efacf.gif"/><br>
 
 
 
