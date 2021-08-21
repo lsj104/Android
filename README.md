@@ -70,12 +70,14 @@
 2.진행중항목<br>
 -추천화면<br>(70%)
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/130236441-48949f6b-0c51-4362-a9ff-69ca64f2c617.gif"/><br>
-
-
-
-
-
-
+<br>
+21.08.21<br>
+1.완료항목<br>
+-로그인API연동후 마이페이지 화면 바뀌게<br>
+2.진행중항목<br>
+-추천화면<br>
+-Tab레이아웃 아이템 사이 margin 주는법 찾는중 <br>
+<img width="30%" src="https://user-images.githubusercontent.com/75536654/130236441-48949f6b-0c51-4362-a9ff-69ca64f2c617.gif"/><br>
 
 
 
