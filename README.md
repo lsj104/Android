@@ -76,7 +76,7 @@
 -로그인API연동후 마이페이지 화면 바뀌게<br>
 2.진행중항목<br>
 -추천화면🥕08.22 완료<br> 
--Tab레이아웃 아이템 사이 margin 주는법 찾는중 <br> 🧨찾아본 모든방법 다 써봐도 안돼서 포기 
+-Tab레이아웃 아이템 사이 margin 주는법 찾는중 🧨08.22 찾아본 모든방법 다 써봐도 안돼서 포기 <br> 
 <로그인 후 마이페이지 변경되는 화면><br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/130333257-3d1a785a-9c50-46ee-b52a-02224a3800f0.gif"/><br>
 <br>
