@@ -77,7 +77,7 @@
 2.진행중항목<br>
 -추천화면<br> 🥕08.22 완료<br> 
 -Tab레이아웃 아이템 사이 margin 주는법 찾는중 <br>
-<로그인 후 마이페이지 변경되는 ><br>
+<로그인 후 마이페이지 변경되는 화면><br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/130333208-a59a00f9-27f6-41bb-bd51-d7d1ba601dad.mp4/><br>
 
 
