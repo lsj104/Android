@@ -63,7 +63,7 @@
 -홈화면<br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/130085897-f7b27718-cb51-40e1-a485-4b275e4efacf.gif"/><br>
 <br>
-21.08.20
+21.08.20<br>
 1.완료항목<br>
 -로그인API<br>
 -추천화면에서 광고배너 1.5초주기로 넘어가게 구성<br>
