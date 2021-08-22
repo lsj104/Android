@@ -87,6 +87,11 @@
 -회원가입할때 휴대폰번호인증(API오류 기다리는중)<br>
 -국내숙소 최근 본 상품의 연관상품(API 기다리는중)<br>
 -국내숙소 (40%)<br>
+-지역 탭(10%)
+<추천홈 완성><br>
+<img width="30%" src="https://user-images.githubusercontent.com/75536654/130354278-450fb9ed-f2d6-4da8-9b9b-fc75a31cd3a1.gif"/><br>
+<국내숙소 진행상황><br>
+<img width="30%" https://user-images.githubusercontent.com/75536654/130354294-27bd70ca-6fcb-4dbb-9381-94bbc10d3f8f.gif/><br>
 
 
 
