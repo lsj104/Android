@@ -91,7 +91,7 @@
 <추천 완성><br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/130354278-450fb9ed-f2d6-4da8-9b9b-fc75a31cd3a1.gif"/><br>
 <국내숙소 진행상황><br>
-<img width="30%" https://user-images.githubusercontent.com/75536654/130354294-27bd70ca-6fcb-4dbb-9381-94bbc10d3f8f.gif/><br>
+<img width="30%" src="https://user-images.githubusercontent.com/75536654/130354294-27bd70ca-6fcb-4dbb-9381-94bbc10d3f8f.gif"/><br>
 
 
 
