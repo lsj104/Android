@@ -84,14 +84,22 @@
 1.완료항목<br>
 -추천화면<br>
 2.진행중항목<br>
--회원가입할때 휴대폰번호인증(API오류 기다리는중)<br>
--국내숙소 최근 본 상품의 연관상품(API 기다리는중)<br>
+-회원가입할때 휴대폰번호인증(API오류 기다리는중)<br> 🥕08.23완료
+-국내숙소 최근 본 상품의 연관상품<br>
 -국내숙소 (40%)<br>
 -지역 탭(10%)<br>
 <추천 완성><br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/130354278-450fb9ed-f2d6-4da8-9b9b-fc75a31cd3a1.gif"/><br>
 <국내숙소 진행상황><br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/130354294-27bd70ca-6fcb-4dbb-9381-94bbc10d3f8f.gif"/><br>
+<br>
+1.완료항목<br>
+-회원가입할때 휴대폰번호인증<br>
+2.진행중항목<br>
+-검색창<br>
+<인증번호><br>
+<img width="30%" src="https://user-images.githubusercontent.com/75536654/130464367-8460ce73-0aed-4484-99ae-039eb0658fd2.jpg"/><br>
+
 
 
 
