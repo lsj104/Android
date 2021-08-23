@@ -99,6 +99,8 @@
 -검색창<br>
 <인증번호><br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/130464367-8460ce73-0aed-4484-99ae-039eb0658fd2.jpg"/><br>
+<img width="30%" src="https://user-images.githubusercontent.com/75536654/130464799-3d5a8db0-777f-4ce1-a639-3f4c398cdc6a.gif"/><br>
+
 
 
 
