@@ -68,7 +68,7 @@
 -로그인API<br>
 -추천화면에서 광고배너 1.5초주기로 넘어가게 구성<br>
 2.진행중항목<br>
--추천화면<br>(70%)
+-추천화면(70%)<br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/130236441-48949f6b-0c51-4362-a9ff-69ca64f2c617.gif"/><br>
 <br>
 21.08.21<br>
@@ -93,6 +93,7 @@
 <국내숙소 진행상황><br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/130354294-27bd70ca-6fcb-4dbb-9381-94bbc10d3f8f.gif"/><br>
 <br>
+21.08.23<br>
 1.완료항목<br>
 -회원가입할때 휴대폰번호인증<br>
 2.진행중항목<br>
