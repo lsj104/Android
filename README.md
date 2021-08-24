@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=야놀자%20개발일지_luna&fontSize=60&fontAlign=50&fontColor=FFFFFF)
 
-📍 2차피드백까지 작업해올 범위 📍<br>
-1. 회원가입 화면 🥕08.19 완료
-2. 로그인 API연동🥕08.20완료
-3. 홈화면(추천화면) 🥕08.22완료
-4. 예약하기 기능<br>
-<br>
-
 21.08.14<br>
 1.완료항목 <br>
 -기획서 제출 <br>
@@ -43,6 +36,12 @@
 -로그인 API연동<br>
 -홈화면<br>
 -예약하기 기능<br>
+<br>
+📍 2차피드백까지 작업해올 범위 📍<br>
+1. 회원가입 화면 🥕08.19 완료
+2. 로그인 API연동🥕08.20완료
+3. 홈화면(추천화면) 🥕08.22완료
+4. 예약하기 기능<br>
 <br>
 1. 진행중항목 <br>
 - 회원가입 화면(2/2)<br>
@@ -101,6 +100,12 @@
 <인증번호><br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/130464367-8460ce73-0aed-4484-99ae-039eb0658fd2.jpg"/><br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/130464799-3d5a8db0-777f-4ce1-a639-3f4c398cdc6a.gif"/><br>
+📚2차 피드백📚<br>
+-예약완료까지 예약기능 완성하기<br>
+-API 여러개 연결하기<br>
+21.08.24<br>
+1.진행중항목
+-검색창
 
 
 
