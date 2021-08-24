@@ -104,8 +104,10 @@
 -예약완료까지 예약기능 완성하기<br>
 -API 여러개 연결하기<br>
 21.08.24<br>
-1.진행중항목
--검색창
+1.진행중항목<br>
+-검색창<br>
+<img width="30%" src="https://user-images.githubusercontent.com/75536654/130637206-9fa476e6-cfcf-4405-85b1-2a85bded7132.gif"/><br>
+
 
 
 
