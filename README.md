@@ -108,6 +108,33 @@
 1.진행중항목<br>
 -검색창<br>
 <img width="30%" src="https://user-images.githubusercontent.com/75536654/130637206-9fa476e6-cfcf-4405-85b1-2a85bded7132.gif"/><br>
+<br>
+21.08.25<br>
+1.진행중항목 <br>
+-검색창 (리사이클러뷰 오류 해결중)<br>
+<img width="30%" src="https://user-images.githubusercontent.com/75536654/130808731-f837a4fc-ec5d-47a9-9429-23420fb38e53.png"/><br>
+<br>
+21.08.26<br>
+1.완료항목<br>
+-검색창 Api연동, 리사이클러뷰<br>
+1.진행중항목 <br>
+-검색창 (레이팅바 수정중)<br>
+-검색 세부화면<br>
+<img width="30%" src="https://user-images.githubusercontent.com/75536654/130984524-64945553-6bd4-4e3d-807f-4b4758f1e239.gif"/><br>
+<br>
+21.08.27<br>
+🎃 전체기능 🎃 <br>
+1. My야놀자<br>
+- 회원가입: 문자 인증번호API연동, 이메일과 비밀번호로 회원가입기능<br>
+- 로그인: 로그인 후 MY야놀자 닉네임, 사진, 포인트, 쿠폰, 비회원예약내역 -> 예약내역 변경<br>
+2. 홈 - 추천<br>
+- 광고배너 1.5초 주기로 변경, 광고배너 카운트<br>
+3. 국내숙소<br>
+4. 검색<br>
+- 지역명으로 숙소 검색 API연동<br>
+- RecyclerView로 숙소 API받아오기<br>
+- 숙소상세페이지 API연동 <br>
+
 
 
 
