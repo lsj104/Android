@@ -141,6 +141,8 @@
 - 개발 우선순위에대한 중요성 ❗ 개발우선순위를 명확하게 정하지 못해서 끝까지 구현하지 못한 기능들이 많이 생겨서 개발 우선순위의 중요성을 매우 느꼈다 😥<br>
 
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
+
 
 
 
